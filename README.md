@@ -23,7 +23,7 @@
 
 ## 🚀 Live Demo
 
-[![View Live Demo](https://img.shields.io/badge/View_Live_Demo-black?style=for-the-badge&logo=vercel&logoColor=white)](https://your-vercel-app-url.vercel.app)
+[![View Live Demo](https://img.shields.io/badge/View_Live_Demo-black?style=for-the-badge&logo=vercel&logoColor=white)](https://loan-calculator-three-ashy.vercel.app)
 
 ---
 
