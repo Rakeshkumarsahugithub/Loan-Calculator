@@ -36,7 +36,7 @@ export default function Header() {
             checked={mode === 'dark'}
             onChange={toggleTheme}
             color="default"
-            inputProps={{ 'aria-label': 'toggle theme' }}
+            
           />
         </Box>
       </Toolbar>
